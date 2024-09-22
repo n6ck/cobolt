@@ -1,0 +1,2 @@
+aiohttp[speedups]>=3,<4
+pydantic>=2,<3
